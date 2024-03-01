@@ -122,6 +122,9 @@
         object-fit: cover;
         scale:1.1;
     }
+    #page2 .elem .dets{
+        font-size: 4.8vw;
+    }
 
     /* page3 */
 #page3 {
@@ -186,6 +189,9 @@
 #shop i{
     font-size: 2vh;
 }
+#shop h5{
+    font-size: 3vw;
+}
 
 #page3{
     min-height: 120vh;
@@ -210,6 +216,9 @@
 .page3-content{
     text-align: center;
     margin-bottom :20px ;
+}
+.page3-content h3{
+    font-size: 4vw;
 }
 
 
