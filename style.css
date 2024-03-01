@@ -1,11 +1,11 @@
 @font-face {
     font-family: futura;
-    src: url(./Futura-Bold.ttf);
+    src: url(./Futura-Bold.woff2);
 }
 
 @font-face {
     font-family: gilroy;
-    src: url(./Gilroy-Medium.ttf);
+    src: url(./Gilroy-Medium.woff2);
 }
 
 * {
